@@ -1,0 +1,15 @@
+.bundle
+android
+ios
+vendor
+
+.prettierrc.js
+.eslintrc.json
+
+app.json
+package.json
+package-lock.json
+
+index.js
+jest.config.js
+metro.config.js
